@@ -1,0 +1,10 @@
+a,78,ty
+b,69,fy
+m,58,sy
+c,69,sy
+d,51,ty
+e,48,ty
+f,63,sy
+g,83,fy
+h,60,ty
+i,58,sy
